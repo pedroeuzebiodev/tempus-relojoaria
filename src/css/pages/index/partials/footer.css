@@ -1,3 +1,7 @@
+footer {
+  margin-top: auto;
+}
+
 #footer-content {
   padding: 4.8rem 3rem 2.4rem;
 }
@@ -16,4 +20,18 @@
   font-style: italic;
 
   line-height: 1.6rem;
+}
+
+@media (width >= 768px) {
+  #footer-content p {
+    font-size: 1.6rem;
+
+    line-height: 1.8rem;
+  }
+
+  #footer-content span {
+    font-size: 1.6rem;
+
+    line-height: 1.8rem;
+  }
 }
