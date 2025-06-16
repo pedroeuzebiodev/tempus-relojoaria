@@ -1,0 +1,19 @@
+#footer-content {
+  padding: 4.8rem 3rem 2.4rem;
+}
+
+#footer-content p {
+  font-size: 1.4rem;
+
+  line-height: 1.6rem;
+
+  text-align: center;
+}
+
+#footer-content span {
+  font-family: "Playfair Display", serif;
+  font-size: 1.4rem;
+  font-style: italic;
+
+  line-height: 1.6rem;
+}

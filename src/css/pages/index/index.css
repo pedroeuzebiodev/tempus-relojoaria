@@ -1,4 +1,5 @@
 @import url(../../global/global.css);
 
+@import url(./partials/footer.css);
 @import url(./partials/header.css);
 @import url(./partials/section-home.css);
