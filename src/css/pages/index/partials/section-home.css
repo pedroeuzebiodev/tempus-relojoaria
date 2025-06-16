@@ -51,6 +51,8 @@ section {
   line-height: 2rem;
 
   cursor: pointer;
+
+  text-transform: uppercase;
 }
 
 @media (width >= 768px) {
