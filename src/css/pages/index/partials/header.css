@@ -15,6 +15,10 @@
   line-height: 3.6rem;
 }
 
+#header-content nav {
+  display: none;
+}
+
 #header-content #menu-button {
   border: none;
 
@@ -25,4 +29,32 @@
 
 #header-content #menu {
   font-size: 3.2rem;
+}
+
+@media (width >= 768px) {
+  #header-content nav {
+    display: block;
+  }
+
+  #header-content ul {
+    list-style: none;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2.4rem;
+  }
+
+  #header-content a {
+    text-decoration: none;
+
+    font-size: 2.4rem;
+    font-weight: 500;
+
+    line-height: 3rem;
+  }
+
+  #header-content #menu-button {
+    display: none;
+  }
 }
