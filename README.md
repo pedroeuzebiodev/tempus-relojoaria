@@ -36,7 +36,7 @@
 
 ## 💻 Sobre o projeto
 
-⌚ Tempus | Relojoaria - é um website de um relojoaria. Como Monitor da disciplina de Desenvolvimento Web I do curso de Técnico em Informática para Internet do IFCE Campus Baturité, desenvolvi esse projeto para apresentar e fixar o conteúdo de HTML e CSS com os alunos.
+⌚ Tempus | Relojoaria - é um website de uma relojoaria. Como Monitor da disciplina de Desenvolvimento Web I do curso de Técnico em Informática para Internet do IFCE Campus Baturité, desenvolvi esse projeto para apresentar e fixar o conteúdo de HTML e CSS com os alunos.
 
 ---
 
