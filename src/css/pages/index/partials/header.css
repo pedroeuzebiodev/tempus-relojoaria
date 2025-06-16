@@ -1,0 +1,28 @@
+#header-content {
+  padding: 4.8rem 3rem 4.8rem;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#header-content h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 3.2rem;
+  font-weight: 700;
+  font-style: italic;
+
+  line-height: 3.6rem;
+}
+
+#header-content #menu-button {
+  border: none;
+
+  background: none;
+
+  cursor: pointer;
+}
+
+#header-content #menu {
+  font-size: 3.2rem;
+}

@@ -5,3 +5,10 @@ body {
 body * {
   color: var(--foreground);
 }
+
+.max-width {
+  width: 100%;
+  max-width: 1280px;
+
+  margin: auto;
+}
