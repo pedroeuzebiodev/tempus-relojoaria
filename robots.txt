@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://website-tempus.vercel.app/sitemap.xml
+Sitemap: https://tempus-relojoaria.vercel.app/sitemap.xml
