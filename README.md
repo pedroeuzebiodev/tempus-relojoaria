@@ -1,19 +1,19 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pedroeuzebiodev/website-tempus?color=3b82f6" />
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/pedroeuzebiodev/tempus-relojoaria?color=3b82f6" />
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/pedroeuzebiodev/website-tempus" />
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/pedroeuzebiodev/tempus-relojoaria" />
 
-  <a href="https://github.com/pedroeuzebiodev/website-tempus/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedroeuzebiodev/website-tempus" />
+  <a href="https://github.com/pedroeuzebiodev/tempus-relojoaria/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/pedroeuzebiodev/tempus-relojoaria" />
   </a>
 
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen" />
 
-   <a href="https://github.com/pedroeuzebiodev/website-tempus/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/pedroeuzebiodev/website-tempus?style=social" />
+   <a href="https://github.com/pedroeuzebiodev/tempus-relojoaria/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/pedroeuzebiodev/tempus-relojoaria?style=social" />
   </a>
 
-  <a href="https://pedroeuzebiodev.github.io/website-tempus">
+  <a href="https://pedroeuzebiodev.github.io/tempus-relojoaria">
     <img alt="Feito pelo Pedro Euzebio" src="https://img.shields.io/badge/feito%20por-Pedro%20Euzebio-3b82f6" />
   </a>
 </p>
@@ -28,6 +28,7 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-layout">Layout</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> •
  <a href="#-tecnologias">Tecnologias</a> •
  <a href="#-autor">Autor</a> •
@@ -36,9 +37,17 @@
 
 ## 💻 Sobre o projeto
 
-⌚ Tempus | Relojoaria - é um website de uma relojoaria. Como Monitor da disciplina de Desenvolvimento Web I do curso de Técnico em Informática para Internet do IFCE Campus Baturité, desenvolvi esse projeto para apresentar e fixar o conteúdo de HTML e CSS com os alunos.
+⌚ Tempus | Relojoaria - é um website de uma relojoaria fictícia que eu desenvolvi para colocar em prática meus conhecimentos em HTML, CSS e Figma.
 
 ---
+
+## 🎨 Layout
+
+O layout da aplicação está disponível no Figma:
+
+<a href="https://www.figma.com/design/P6nisBdB9ZUjWOdrwDIk8j/Tempus-%7C-Relojoaria?node-id=0-1&t=rMxARdXKXBe5VOEz-1">
+  <img alt="Made by Pedro Euzebio" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
 
 ### Mobile
 
@@ -65,10 +74,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina a seguinte f
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:pedroeuzebiodev/website-tempus.git
+$ git clone git@github.com:pedroeuzebiodev/tempus-relojoaria.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd website-tempus
+$ cd tempus-relojoaria
 
 # Abra o arquivo index.html com a extensão Live Server do VS Code
 
@@ -100,7 +109,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🦸 Autor
 
 <a href="https://www.linkedin.com/in/pedroeuzebio">
-  <img style="border-radius: 50%;" src="https://i.imgur.com/dJmzEPE.png" width="100px;" alt="" />
+  <img style="border-radius: 50%;" src="https://i.imgur.com/uieVTmO.png" width="100px;" alt="" />
 
   <br />
 
